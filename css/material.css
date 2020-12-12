@@ -1,0 +1,99 @@
+body{
+    font-family: 'Baloo Tammudu 2', cursive;
+}
+
+/*Nav*/
+#nav{
+    background-color:#F1EBEB;
+    position: fixed;
+    color: black;
+}
+#nav ul{
+    list-style: none;
+    margin:0;
+    padding: 0;
+
+}
+#nav ul li{
+    display: inline-block;
+    
+}
+
+#nav ul li a{
+    text-decoration: none ;
+    display: block;
+    padding: 10px 28px;
+}
+#nav ul li a:hover{
+    background-color: #F08F9C;
+    color: black;
+}
+.first{
+    float: right;
+}
+.icon{
+    height: 60px;
+    width: 60px;
+    margin-left: 30px;
+    padding-right: 420px;
+}
+.galeria{
+    margin-left: 11%;
+    margin-top: 5%;
+}
+.escultura{
+    height: 400px;
+    width: 350px;
+}
+
+.noche{
+    height: 400px;
+    width: 350px;
+}
+.piano{
+    height: 400px;
+    width: 350px;
+}
+.harry{
+    height: 400px;
+    width: 350px;
+}
+.feminismo{
+    height: 400px;
+    width: 350px;
+}
+.libro{
+    height: 400px;
+    width: 350px;
+}
+.yt1{
+    height: 150px;
+    width: 500px;
+    margin-left: 25%;
+}
+.spotify{
+    margin-left: 15%;
+
+}
+.spotify1{
+    height: 300px;
+    width: 500px;
+    margin-left: 17%;
+}
+.yt{
+    margin-left: 12%;  
+}
+.galeria1{
+    height: 150px;
+    width: 400px;
+    margin-left: 35%;
+  margin-top: 5%;
+}
+.galeria>img{
+    border: 0.5em solid #A6CCFF ;
+}
+.galeria>img:hover{
+    border:  0.5em solid red ;
+}
+
+

@@ -1,0 +1,120 @@
+body{
+    font-family: 'Baloo Tammudu 2', cursive;
+    background-image: url('../img/fondo3.jpg');
+    background-size: 100%;
+}
+.icon{
+    height: 60px;
+    width: 60px;
+    margin-left: 30px;
+    padding-right: 420px;
+}
+
+/*Nav*/
+#nav{
+    background-color:#F1EBEB;
+    position: fixed;
+    color: black;
+}
+#nav ul{
+    list-style: none;
+    margin:0;
+    padding: 0;
+
+}
+#nav ul li{
+    display: inline-block;
+    
+}
+
+#nav ul li a{
+    text-decoration: none ;
+    display: block;
+    padding: 10px 28px;
+}
+#nav ul li a:hover{
+    background-color: #F08F9C;
+    color: black;
+}
+.first{
+    float: right;
+
+/*Indice*/
+}
+#indice{
+    margin-left:40px;
+    margin-top: 50px;
+    background-color:#F17FCB;
+    width: 10%;
+
+}
+#indice ul li{
+  margin-top: 5px;
+  list-style: none;
+  display: inline-block;
+}
+#indice ul li a{
+    text-decoration: none;
+    color: white;
+}
+#indice ul li a:hover{
+ background-color: #ce46a1;
+}
+#section1{
+    background-color: #E9E6E8;
+    width: 70%;
+   margin-top:-185px;
+   margin-left: 250px;
+   float: left;
+   margin-bottom: 100px;
+
+}
+.claretiano{
+    height: 200px;
+    width: 400px;
+    margin-left: 350px;
+    margin-top: -120px;
+    border-radius: 10px;
+    border:dotted 5px yellow;
+}
+.colegio{
+margin-left: 40px;
+font-size: 18px;
+
+}
+.visual{
+    border:dotted 5px rgb(43, 172, 71);
+    border-radius:10px ;
+    margin-top: -300px;
+ margin-left:470px;
+ height: 300px;
+ width: 400px;
+}
+.sen{
+    border:dotted 5px rgb(41, 161, 77);
+    border-radius:10px ;
+    margin-top: -10px;
+    height: 300px;
+    width: 390px;
+    margin-left: 40px;
+}
+.natacion{
+    border:dotted 5px rgb(230, 33, 65);
+    height: 250px;
+    width: 150px;
+    margin-left:400px;
+    border-radius:10px ;
+}
+.distrital{
+    margin-left: 270px;
+    margin-bottom: 80px;
+}
+h1{
+    text-align: center;
+    font-family: 'Lobster Two', cursive;
+}
+.sena{
+    text-align: center;
+    font-size: 18px;
+}
+

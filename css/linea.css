@@ -1,0 +1,199 @@
+body{
+    font-family: 'Baloo Tammudu 2', cursive;
+}
+h1{
+    text-align: center;
+    font-family: 'Lobster Two', cursive;
+}
+h2{
+    font-family: 'Lobster Two', cursive;
+}
+/*Nav*/
+.icon{
+    height: 60px;
+    width: 60px;
+    margin-left: 30px;
+    padding-right: 420px;
+}
+#nav{
+    background-color:#F1EBEB;
+    position: fixed;
+    color: black;
+}
+#nav ul{
+    list-style: none;
+    margin:0;
+    padding: 0;
+
+}
+#nav ul li{
+    display: inline-block;
+    
+}
+
+#nav ul li a{
+    text-decoration: none ;
+    display: block;
+    padding: 10px 28px;
+}
+#nav ul li a:hover{
+    background-color: #F08F9C;
+    color: black;
+}
+.first{
+    float: right;
+}
+
+
+/*linea*/
+.lineac{
+    border-left:  5px solid deeppink;
+    height: 1690px;
+    position: absolute;
+    margin-left: 50%;
+    top: 165px;
+}
+.circle{
+    width: 20px;
+    height: 20px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: deeppink;
+    margin-left: 50%;
+    margin-top:-40px;
+}
+.circle1{
+    width: 20px;
+    height: 20px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: deeppink;
+    margin-left: 50%;
+    margin-top: 25px;
+}
+.linea1{
+    border-top:  5px solid deeppink;
+    width:50px;
+    position: absolute;
+    margin-left:46.5%;
+    top: 300px;
+}
+.linea2{
+    border-top:  5px solid deeppink;
+    width:50px;
+    position: absolute;
+    margin-left:50%;
+    top: 500px;
+}
+.linea3{
+    border-top:  5px solid deeppink;
+    width:50px;
+    position: absolute;
+    margin-left:46.5%;
+    top: 650px;
+}
+.linea4{
+    border-top:  5px solid deeppink;
+    width:50px;
+    position: absolute;
+    margin-left:50%;
+    top: 850spx;
+}
+.linea5{
+    border-top:  5px solid deeppink;
+    width:50px;
+    position: absolute;
+    margin-left:46.5%;
+    top: 1000px;
+}
+.linea6{
+    border-top:  5px solid deeppink;
+    width:50px;
+    position: absolute;
+    margin-left:50%;
+    top: 1180px;
+}
+.linea7{
+    border-top:  5px solid deeppink;
+    width:50px;
+    position: absolute;
+    margin-left:46.5%;
+    top: 1340px;
+}
+.linea8{
+    border-top:  5px solid deeppink;
+    width:50px;
+    position: absolute;
+    margin-left:30.5%;
+    top:1550px;
+}
+.linea9{
+    border-top:  5px solid deeppink;
+    width:50px;
+    position: absolute;
+    margin-left:46.5%;
+    top: 1700px;
+}
+.izq{
+    margin-left: 55%;
+}
+.der{
+    margin-left: 20%;
+}
+.bebe{
+    height: 200px;
+    width: 260px;
+    margin-left: 45%;
+    margin-top: -10%;
+}
+.jardin{
+    margin-left:-60%;
+    margin-top: -30%;
+    height:230px;
+    width: 300px;
+}
+.escuela{
+    width:350px;
+    height:250px;
+    margin-left:45%;
+    margin-top: -15%;
+   
+}
+.natacion{
+    width: 300px;
+    height: 200px;
+    margin-left:-70%;
+    margin-top: -30%;
+}
+.claretiano{
+    height:200px;
+    width: 310px;
+    margin-left:50%;
+    margin-top: -15%;
+}
+.casa{
+    height: 150px;
+    width: 300px;
+    margin-left:-70%;
+    margin-top: -20%;
+}
+.ganar{
+    height: 200px;
+    width: 350px;
+    margin-left:45%;
+    margin-top: -10%;
+}
+.cancun{
+    height: 200px;
+    width: 400px;
+    margin-left:-90%;
+    margin-top: -30%;
+}
+.grado{
+    height: 200px;
+    width: 300px;
+    margin-left: 40%;
+    margin-top: -14%;
+}
